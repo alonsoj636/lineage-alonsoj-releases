@@ -29,3 +29,13 @@ Unlimited Google Photos
 Signature Spoofing Support
 
 --------------------------------------
+
+**Downloads**
+
+TOTAL
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/alonsoj636/lineage-alonsoj-releases/total?color=red&style=plastic)](https://github.com/alonsoj636/lineage_alonsoj_releases/releases)
+
+BUILD VERSION
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/alonsoj636/lineage-alonsoj-releases/20-20230127/lineage-20.0-20230127-UNOFFICIAL-sunny.zip?color=red&label=Alonso%27s%20Cave&style=plastic)](https://github.com/alonsoj636/lineage_alonsoj_releases/releases)
