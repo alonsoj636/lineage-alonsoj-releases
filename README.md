@@ -2,8 +2,6 @@
 
 **Maintainer : Alonso Jimenez** | [My XDA Thread](https://forum.xda-developers.com/t/rom-13-unofficial-lineageos-20-mojito-sunny-ota-safetynet-signature-spoofing.4436693/)
 
-Liked my Work? [Buy me a Coffee!!](https://ko-fi.com/alonsoj636)
-
 ---------------------------------------
 
 **Build Info**
