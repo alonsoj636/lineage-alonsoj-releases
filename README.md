@@ -1,6 +1,6 @@
 # LineageOS 20 for Redmi Note 10 [sunny]
 
-**Maintainer : Alonso J.** | [My XDA Thread](https://forum.xda-developers.com/t/rom-13-unofficial-lineageos-20-mojito-sunny-ota-safetynet-signature-spoofing.4436693/)
+**Maintainer : Alonso J.** | [XDA Thread](https://forum.xda-developers.com/t/rom-13-unofficial-lineageos-20-mojito-sunny-ota-safetynet-signature-spoofing.4436693/)
 
 ---------------------------------------
 
