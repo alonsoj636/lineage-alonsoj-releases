@@ -2,15 +2,13 @@
 
 **Maintainer : Alonso Jimenez** | [My XDA Thread](https://forum.xda-developers.com/t/rom-13-unofficial-lineageos-20-mojito-sunny-ota-safetynet-signature-spoofing.4436693/)
 
-Liked my Work? [Buy me a Coffee!!](https://ko-fi.com/alonsoj636)
-
 ---------------------------------------
 
 **Build Info**
 
-Last Build : January 27 , 2023
+Last Build : February 10 , 2023
 
-Security Patch : January 5 , 2023
+Security Patch : February 5 , 2023
 
 Build Type : Userdebug
 
